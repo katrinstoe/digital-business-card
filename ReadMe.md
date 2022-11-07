@@ -3,4 +3,4 @@
 
 Small business card Website with Vanilla CSS and basic React components.
 
-![img.png](img.png)
+![img_1.png](img_1.png)
